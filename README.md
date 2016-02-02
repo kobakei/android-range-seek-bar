@@ -1,6 +1,15 @@
 range-seek-bar
 ======================
 
+# THIS IS FORK REPOSITORY
+
+This is fork repository from https://github.com/anothem/android-range-seek-bar
+
+The main difference between original and fork is as below:
+
+- Update build tools and target SDK
+- Enable to override labels
+
 # Introduction
 
 If you are coming from [the original repo](https://github.com/yahoo/android-range-seek-bar), it has a [new home](https://github.com/anothem/android-range-seek-bar) so if you're seeing this, you're probably in the right place.
@@ -37,7 +46,7 @@ The rangeseekbar-sample shows the available features and customizations in code 
 
 * Add this in your build.gradle file:
 
- * For latest release: 
+ * For latest release:
 
 ```groovy
 	dependencies {
