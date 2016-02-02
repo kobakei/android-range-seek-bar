@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RangeSeekBar</string>
+    <string name="custom_text_above_thumbs">$%.2f</string>
 </resources>

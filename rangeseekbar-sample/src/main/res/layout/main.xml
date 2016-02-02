@@ -166,6 +166,20 @@
             rsb:thumbShadowYOffset="2dp"
             />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="8dp"
+            android:text="Range seek bar overriding text above thumbs"
+            />
+
+        <org.florescu.android.rangeseekbar.sample.CustomRangeSeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            rsb:absoluteMaxValue="100.0"
+            rsb:absoluteMinValue="0.0"
+            />
+
 
     </LinearLayout>
 
